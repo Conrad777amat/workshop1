@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    margin: 0;
+    font-style: italic;
+    
+}
+
+#header {
+    background-color: rgb(5, 5, 61);
+    height: 100px;
+}
+#content{
+    background-color: rgb(3, 3, 5);
+    height: 350px;
+}
+#footer{
+    background-color: rgb(80, 55, 220);
+}
+
+#nate{
+    height: 500px;
+    margin-left: 500px;
+    margin-top: -200px;
+
+}
+
+#connor{
+    height: 100px;
+    margin-left: 400px;
+}
